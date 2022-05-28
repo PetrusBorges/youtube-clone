@@ -2,7 +2,7 @@
 
 It is a clone website of youtube adapted for web, organized in a single page for a possible!
 
-
+[YouTube - Clone](https://petrusborges-youtubeclone.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/105453766/170832049-d8f98d93-5e4e-49ac-95ba-8c6e17f7a288.png)
 
