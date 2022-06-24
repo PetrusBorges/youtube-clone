@@ -4,12 +4,12 @@ It is a clone website of youtube adapted for web, organized in a single page for
 
 [YouTube - Clone](https://petrusborges-youtubeclone.netlify.app)
 
-![image](https://user-images.githubusercontent.com/105453766/170832049-d8f98d93-5e4e-49ac-95ba-8c6e17f7a288.png)
-
 ## 📋 Project
 
 This project is the result of participating in a class on SuperSimpleDev 🚀.
 It was possible to have fundamental knowledge of HTML, CSS.
+
+![image](https://user-images.githubusercontent.com/105453766/170687704-dc805fa9-7f70-41be-91e2-9b54a44a104c.png)
 
 [SuperSimpleDev](https://supersimple.dev/courses/html-css-course#exercises-solutions)
 
